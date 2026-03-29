@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+import { ArrowRight } from "lucide-react";
 import { siteConfig } from "@/config/site";
 import { FadeIn, FadeInStagger, StaggerItem } from "./animations";
 
@@ -61,6 +63,16 @@ export function CaseStudies() {
             </StaggerItem>
           ))}
         </FadeInStagger>
+
+        <FadeIn className="text-center mt-12">
+          <Link
+            href="/case-studies"
+            className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border hover:border-border-hover text-text-secondary hover:text-text-primary transition-all duration-300"
+          >
+            View All Case Studies
+            <ArrowRight className="w-4 h-4" />
+          </Link>
+        </FadeIn>
       </div>
     </section>
   );
