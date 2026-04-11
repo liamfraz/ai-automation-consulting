@@ -105,6 +105,36 @@ export const siteConfig = {
     },
   ],
 
+  recentProjects: [
+    {
+      client: "Brisbane Accounting Practice",
+      scope: "ATO BAS compliance automation + Xero invoice sync",
+      description:
+        "Built a Power Automate flow that pulls lodgement deadlines from the ATO portal, creates Teams reminders for each client, and syncs approved invoices from Xero into their practice management system — eliminating manual data entry across two platforms.",
+      outcome: "6 hrs/week saved, zero missed BAS deadlines since go-live",
+      tags: ["Power Automate", "Xero API", "ATO Compliance", "Microsoft Teams"],
+      completedLabel: "Completed Mar 2025",
+    },
+    {
+      client: "Allied Health Clinic (Melbourne)",
+      scope: "Appointment reminder + cancellation backfill system",
+      description:
+        "Integrated Microsoft Bookings with Power Automate to send SMS and email reminders at 48hrs and 24hrs before appointments. Cancellations automatically trigger a waitlist notification to the next patient, filling gaps in real time.",
+      outcome: "40% reduction in no-shows, 12 extra billable appointments per week",
+      tags: ["Power Automate", "Microsoft Bookings", "SMS Integration"],
+      completedLabel: "Completed Feb 2025",
+    },
+    {
+      client: "Sydney Construction Contractor",
+      scope: "Job card creation and supervisor notification pipeline",
+      description:
+        "Automated the flow from email quote acceptance to job card creation in SharePoint, site supervisor notification in Teams, and subcontractor briefing documents. What took 45 minutes of admin per job now happens in seconds.",
+      outcome: "3 hrs/day returned to the owner, zero lost job cards",
+      tags: ["Power Automate", "SharePoint", "Microsoft Teams", "Document Gen"],
+      completedLabel: "Completed Jan 2025",
+    },
+  ],
+
   caseStudies: [
     {
       industry: "Real Estate",
