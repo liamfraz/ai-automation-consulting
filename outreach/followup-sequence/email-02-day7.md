@@ -1,29 +1,24 @@
-# Email 02 — Day 7 Follow-Up: Value-First
+# Email 02 — Day 7 Follow-Up: Case Study + Direct Question
 
 **Send:** Day 7 after initial outreach (following Monday/Tuesday AM AEST)
-**Subject:** 3 quick AI wins for [INDUSTRY] businesses
-**Subject length:** 42 chars ✓
-**Word count:** ~91 words ✓ (under 100)
-**CTA:** Want me to map these to your business?
+**Subject:** Quick follow-up: [COMPANY] + AI automation ROI
+**Subject length:** ~50 chars ✓
+**Word count:** ~110 words ✓ (under 130)
+**CTA:** Offer a 5-min Loom
 
 ---
 
 Hi [FIRST_NAME],
 
-Still on your radar — thought of [COMPANY] when I pulled this together.
+No reply needed — just wanted to follow up on my note about [COMPANY].
 
-**3 Quick AI Wins for [INDUSTRY] Businesses:**
+[PERSONALISED_LINE]
 
-- Auto-extract data from invoices/documents into your systems
-- Trigger follow-up emails or tasks based on customer actions
-- Auto-generate reports from spreadsheets or CRM data
-- Route inbound enquiries to the right person automatically
-- Summarise long documents, threads, or notes in seconds
-- Sync data between disconnected tools without manual export
+A Melbourne tradie we worked with automated their job quoting process — saved 6 hours/week and closed 23% more quotes because follow-ups went out instantly instead of sitting on a to-do list.
 
-Most of these take a few days to build.
+Is manual data entry or client follow-up eating more of your team's time right now?
 
-Want me to map these to your business?
+Happy to send a 5-min Loom showing exactly what this looks like for a business like yours.
 
 Cheers,
 Liam Frazer
