@@ -1,0 +1,102 @@
+UPWORK PROPOSAL AUDIT — 2026-04-12
+====================================
+
+## PROPOSAL TRACKING (from proposals/pipeline.csv)
+
+Total rows tracked: 18
+- Batch 1 (2026-03-27): 10 proposals — status: "Draft" (NOT "Submitted")
+- Batch 2 (2026-04-11): 5 proposals — status: "Pending Submission"
+- Batch 3 (2026-04-12): 3 proposals — status: "Pending Submission"
+
+Confirmed submitted: 0
+Confirmed replies: 0
+
+REPLY RATE: Cannot calculate — no proposals confirmed submitted in pipeline.csv.
+All March proposals are marked "Draft", not "Submitted".
+
+!! CRITICAL FINDING: The volume problem IS the sending problem.
+   Proposals exist in /proposals/ but pipeline.csv has zero "Submitted" entries.
+   Cold email log (outreach/outreach-log.csv) also shows 0 dates sent across all 20 contacts.
+   The funnel isn't underperforming — it hasn't started.
+
+---
+
+## PROPOSAL COPY ANALYSIS (March batch vs April batch)
+
+MARCH BATCH PROBLEMS (batch-2026-03-27.md):
+- Opens with "I read through your brief carefully" — generic opener, no hook
+- Leads with own credentials (FlowGen AI) before addressing client pain
+- 300-400 words — too long, loses attention before the CTA
+- Formal/structured feel — reads like a consultant pitch deck, not a peer conversation
+- No specific result number in the hook ("8 hours/week", "$2,400 saved") upfront
+
+APRIL BATCH (batch-2026-04-11.md):
+- Structure is correct: [PERSONALISE] → specific result → scoped deliverables → 1 question
+- Length is appropriate (~150-200 words of actual content)
+- Has specific numbers (70-80% AP time reduction, $2,400/hire saving)
+- PROBLEM: [PERSONALISE] placeholders were never filled in — proposals weren't submitted
+
+---
+
+## REVISED 150-WORD PROPOSAL TEMPLATE
+
+Formula: [Their pain from job post] → [Your result in 1 sentence] → [How it applies] → [1 scoping question] → [CTA]
+
+---
+
+[PASTE 1-2 SENTENCES FROM THEIR JOB POST THAT DESCRIBE THE PAIN]
+
+That's exactly the problem I solved for a Sydney property agency — [RESULT: e.g., "replaced a fully manual inbox triage process and cut response time from 48 hours to under 2 minutes"].
+
+[CONNECT THE DOTS IN 1-2 SENTENCES: explain why your experience maps to their situation specifically]
+
+Before I scope this properly: [ONE QUESTION that shows you understand their stack/workflow — e.g., "Which accounting platform are you using, and do you currently process purchase orders?"]
+
+Happy to walk through how I'd approach your specific setup on a 20-min call if that's useful.
+
+Liam
+
+---
+Word count target: 100-130 words. Do NOT exceed 150.
+
+---
+
+## ACTION PLAN — TODAY (2026-04-12)
+
+Step 1 — VERIFY what was actually sent
+  Go to Upwork > Proposals tab and count:
+  - Total sent (ever)
+  - Replies/messages received
+  - Update pipeline.csv status for any confirmed submissions
+
+Step 2 — SEND the April batch (if not yet done)
+  File: proposals/batch-2026-04-11.md
+  5 proposals ready, just need [PERSONALISE] filled in and submitted
+  Takes ~30 min to personalise and submit all 5
+
+Step 3 — Find and send 3 NEW proposals today using searches:
+  Search: "Power Automate" Australia, posted last 48h, budget $500+
+  Search: "workflow automation" Australia, posted last 48h, budget $500+
+  Search: "AI automation" Australia, posted last 48h, budget $500+
+  Use the 150-word template above. Do NOT send the March-style long proposals.
+
+Step 4 — If you have any replies sitting unread:
+  Send: "Happy to scope this in a 20-min call — here's my calendar: [Calendly link]"
+  Short. No re-pitching. Just the calendar link.
+
+---
+
+## UPWORK SEARCH QUERIES FOR TODAY'S 3 PROPOSALS
+
+Run each in Upwork > Find Work. Filter: Australia preferred, posted last 48 hours, budget $500+, <20 proposals, payment verified clients only.
+
+1. "Power Automate workflow automation"
+2. "Microsoft 365 automation consultant"
+3. "AI workflow automation" OR "invoice automation" OR "document automation"
+
+Pick the 3 best matches. Fill in [PERSONALISE] from their job post. Submit.
+
+---
+
+Audit generated: 2026-04-12
+Next review: 2026-04-19 (after 1 week of actual submissions)
